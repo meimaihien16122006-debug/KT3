@@ -1,24 +1,17 @@
-package vn.udn.ute.week08.kt04_fragment_2415053122217
+package vn.udn.ute.kt04_fragment_2415053122217
 
-import androidx.test.platform.app.InstrumentationRegistry
-import androidx.test.ext.junit.runners.AndroidJUnit4
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import vn.udn.ute.kt04_fragment_2415053122217.ui.NhapVeFragment
 
-import org.junit.Test
-import org.junit.runner.RunWith
-
-import org.junit.Assert.*
-
-/**
- * Instrumented test, which will execute on an Android device.
- *
- * See [testing documentation](http://d.android.com/tools/testing).
- */
-@RunWith(AndroidJUnit4::class)
-class ExampleInstrumentedTest {
-    @Test
-    fun useAppContext() {
-        // Context of the app under test.
-        val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("vn.udn.ute.week08.kt04_fragment_2415053122217", appContext.packageName)
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+        if (savedInstanceState == null) {
+            supportFragmentManager.beginTransaction()
+                .replace(R.id.fragmentHost, NhapVeFragment())
+                .commit()
+        }
     }
 }

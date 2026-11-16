@@ -1,7 +1,7 @@
-package vn.udn.ute.kt04.model
+package vn.udn.ute.kt04_fragment_2415053122217.model
 
 data class PhieuVe(
-    val maVe_2217: String,
-    val hoTen_2217: String,
-    val soLuong_2217: Int
+    val maVe: String,
+    val hoTen: String,
+    val soLuong: Int
 )
