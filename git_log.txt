@@ -1,0 +1,288 @@
+﻿================================================================================
+                   FDT AGENT - LOCAL GIT COMMIT LOG HISTORY                     
+================================================================================
+ExportedAt: 2026-11-16 07:58:27 UTC
+
+--- CONTRIBUTORS SUMMARY ---
+15	ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+
+--- MACHINE READABLE COMMITS ---
+COMMIT_ROW|e1b9cf6c66450f64034769d830b2721656a333e8|e1b9cf6|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:56:22+07:00|FDT Agent Autosave [14:56:22]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|028263a80fd0f98430a966c53da11ac29a73f7d7|028263a|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:54:39+07:00|Hoan thanh toan bo
+COMMIT_ROW|783685c0d52c39440c547788da8c72f37d04a31c|783685c|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:51:20+07:00|FDT Agent Autosave [14:51:20]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|2a5dd4918fdec6f1e65d3dba2da369f05896da59|2a5dd49|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:46:18+07:00|FDT Agent Autosave [14:46:18]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|5d15d5c8ff9d6e30bef73e0893d62d55d1ef13c2|5d15d5c|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:41:16+07:00|FDT Agent Autosave [14:41:16]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|594b55435b677131dfede59cef8b1686a287cc02|594b554|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:31:14+07:00|FDT Agent Autosave [14:31:14]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|7246557be12a1deae5d2b5cbabcb12981301a21d|7246557|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:26:28+07:00|Hoan thien layout
+COMMIT_ROW|e8a18234304a8eceaa5b61a830968aaa51b6b640|e8a1823|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:26:12+07:00|FDT Agent Autosave [14:26:12]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|17313fd26140f6cb998153e808e8d964dea4ea0e|17313fd|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:21:20+07:00|Khoi tao du an
+COMMIT_ROW|4531d1fff0630a36defe8e7c341d3614f7f111ce|4531d1f|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:21:12+07:00|FDT Agent Autosave [14:21:12]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|d962b0966277351f809cb05246070d792fa72b07|d962b09|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:16:10+07:00|FDT Agent Autosave [14:16:10]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|1a06e97d90db6d44372c6e21387697bb1f3e2529|1a06e97|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:11:10+07:00|FDT Agent Autosave [14:11:10]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|180e07c744690b4fb6faa49dc86af5d9ae9419fb|180e07c|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:06:08+07:00|FDT Agent Autosave [14:06:08]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|d63e19d4bc0907a4bf3c34835474c2f1ed16aa95|d63e19d|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T14:01:06+07:00|FDT Agent Autosave [14:01:06]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|1bd168275e190b4053c13fe8402ac9331b05b563|1bd1682|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|ĐOÀN THỊ MAI HIỀN (2415053122217)|2415053122217@fdt.ute.udn.vn|2026-11-16T13:56:10+07:00|FDT Agent: Initialized local project repository
+
+--- DETAILED COMMIT HISTORY WITH FILE STATS ---
+commit e1b9cf6c66450f64034769d830b2721656a333e8
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:56:22 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:56:22 2026 +0700
+
+    FDT Agent Autosave [14:56:22]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../week08/kt04_fragment_2415053122217/ExampleInstrumentedTest.kt   | 2 ++
+ .../vn/udn/ute/week08/kt04_fragment_2415053122217/model/PhieuVe.kt  | 6 +++---
+ .../ute/week08/kt04_fragment_2415053122217/ui/XacNhanVeFragment.kt  | 2 +-
+ .../udn/ute/week08/kt04_fragment_2415053122217/utils/QuyTacPhieu.kt | 6 +++---
+ 4 files changed, 9 insertions(+), 7 deletions(-)
+
+commit 028263a80fd0f98430a966c53da11ac29a73f7d7
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:54:39 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:54:39 2026 +0700
+
+    Hoan thanh toan bo
+
+ .../ExampleInstrumentedTest.kt                     | 33 +++++------
+ .../kt04_fragment_2415053122217/model/PhieuVe.kt   |  8 +--
+ .../ui/NhapVeFragment.kt                           | 68 ++++++++++++++++++++++
+ .../ui/XacNhanVeFragment.kt                        | 44 ++++++++++++++
+ .../utils/QuyTacPhieu.kt                           |  8 +--
+ 5 files changed, 133 insertions(+), 28 deletions(-)
+
+commit 783685c0d52c39440c547788da8c72f37d04a31c
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:51:20 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:51:20 2026 +0700
+
+    FDT Agent Autosave [14:51:20]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../ExampleInstrumentedTest.kt                     | 37 ++++++++--------------
+ .../ui/XacNhanVeFragment.kt                        |  9 ++++++
+ 2 files changed, 23 insertions(+), 23 deletions(-)
+
+commit 2a5dd4918fdec6f1e65d3dba2da369f05896da59
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:46:18 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:46:18 2026 +0700
+
+    FDT Agent Autosave [14:46:18]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../kt04_fragment_2415053122217/model/PhieuVe.kt   |  2 +-
+ .../ui/NhapVeFragment.kt                           | 10 +++++--
+ .../ui/XacNhanVeFragment.kt                        | 35 ++++++++++++++++++++++
+ .../utils/QuyTacPhieu.kt                           |  2 +-
+ 4 files changed, 45 insertions(+), 4 deletions(-)
+
+commit 5d15d5c8ff9d6e30bef73e0893d62d55d1ef13c2
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:41:16 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:41:16 2026 +0700
+
+    FDT Agent Autosave [14:41:16]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../ui/NhapVeFragment.kt                           | 58 +++++++++++-----------
+ 1 file changed, 29 insertions(+), 29 deletions(-)
+
+commit 594b55435b677131dfede59cef8b1686a287cc02
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:31:14 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:31:14 2026 +0700
+
+    FDT Agent Autosave [14:31:14]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../ui/NhapVeFragment.kt                           | 62 ++++++++++++++++++++++
+ 1 file changed, 62 insertions(+)
+
+commit 7246557be12a1deae5d2b5cbabcb12981301a21d
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:26:28 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:26:28 2026 +0700
+
+    Hoan thien layout
+
+ app/src/main/res/layout/fragment_xac_nhan_ve.xml | 57 ++++++++++++++++++++++++
+ 1 file changed, 57 insertions(+)
+
+commit e8a18234304a8eceaa5b61a830968aaa51b6b640
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:26:12 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:26:12 2026 +0700
+
+    FDT Agent Autosave [14:26:12]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/layout/fragment_xac_nhan_ve.xml | 57 ++++++++++++++++++++++++
+ 1 file changed, 57 insertions(+)
+
+commit 17313fd26140f6cb998153e808e8d964dea4ea0e
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:21:20 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:21:20 2026 +0700
+
+    Khoi tao du an
+
+ app/.gitignore                                     |   1 +
+ app/build.gradle.kts                               |  43 ++++
+ app/src/main/AndroidManifest.xml                   |  26 +++
+ .../ExampleInstrumentedTest.kt                     |  24 ++
+ .../kt04_fragment_2415053122217/model/PhieuVe.kt   |   7 +
+ .../utils/QuyTacPhieu.kt                           |  12 +
+ app/src/main/keepRules/rules.keep                  |  12 +
+ .../main/res/drawable/ic_launcher_background.xml   | 170 ++++++++++++++
+ .../main/res/drawable/ic_launcher_foreground.xml   |  30 +++
+ app/src/main/res/layout/activity_main.xml          |   6 +
+ app/src/main/res/layout/fragment_nhap_ve.xml       |  40 ++++
+ app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml |   6 +
+ .../res/mipmap-anydpi-v26/ic_launcher_round.xml    |   6 +
+ app/src/main/res/mipmap-hdpi/ic_launcher.webp      | Bin 0 -> 1404 bytes
+ .../main/res/mipmap-hdpi/ic_launcher_round.webp    | Bin 0 -> 2898 bytes
+ app/src/main/res/mipmap-mdpi/ic_launcher.webp      | Bin 0 -> 982 bytes
+ .../main/res/mipmap-mdpi/ic_launcher_round.webp    | Bin 0 -> 1772 bytes
+ app/src/main/res/mipmap-xhdpi/ic_launcher.webp     | Bin 0 -> 1900 bytes
+ .../main/res/mipmap-xhdpi/ic_launcher_round.webp   | Bin 0 -> 3918 bytes
+ app/src/main/res/mipmap-xxhdpi/ic_launcher.webp    | Bin 0 -> 2884 bytes
+ .../main/res/mipmap-xxhdpi/ic_launcher_round.webp  | Bin 0 -> 5914 bytes
+ app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp   | Bin 0 -> 3844 bytes
+ .../main/res/mipmap-xxxhdpi/ic_launcher_round.webp | Bin 0 -> 7778 bytes
+ app/src/main/res/values-night/themes.xml           |   7 +
+ app/src/main/res/values/colors.xml                 |   5 +
+ app/src/main/res/values/strings.xml                |   3 +
+ app/src/main/res/values/themes.xml                 |   9 +
+ app/src/main/res/xml/backup_rules.xml              |  13 ++
+ app/src/main/res/xml/data_extraction_rules.xml     |  19 ++
+ .../kt04_fragment_2415053122217/ExampleUnitTest.kt |  17 ++
+ build.gradle.kts                                   |   4 +
+ gradle.properties                                  |  19 ++
+ gradle/gradle-daemon-jvm.properties                |  12 +
+ gradle/libs.versions.toml                          |  24 ++
+ gradle/wrapper/gradle-wrapper.jar                  | Bin 0 -> 45457 bytes
+ gradle/wrapper/gradle-wrapper.properties           |   9 +
+ gradlew                                            | 251 +++++++++++++++++++++
+ gradlew.bat                                        |  94 ++++++++
+ local.properties                                   |  10 +
+ settings.gradle.kts                                |  27 +++
+ 40 files changed, 906 insertions(+)
+
+commit 4531d1fff0630a36defe8e7c341d3614f7f111ce
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:21:12 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:21:12 2026 +0700
+
+    FDT Agent Autosave [14:21:12]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../utils/QuyTacPhieu.kt                           |  5 ++-
+ app/src/main/res/layout/activity_main.xml          | 21 +++---------
+ app/src/main/res/layout/fragment_nhap_ve.xml       | 40 ++++++++++++++++++++++
+ 3 files changed, 48 insertions(+), 18 deletions(-)
+
+commit d962b0966277351f809cb05246070d792fa72b07
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:16:10 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:16:10 2026 +0700
+
+    FDT Agent Autosave [14:16:10]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../udn/ute/week08/kt3/ExampleInstrumentedTest.kt  | 24 ----------------------
+ .../ExampleInstrumentedTest.kt                     |  0
+ .../kt04_fragment_2415053122217/model/PhieuVe.kt   |  7 +++++++
+ .../utils/QuyTacPhieu.kt                           |  9 ++++++++
+ .../java/vn/udn/ute/week08/kt3/ExampleUnitTest.kt  | 17 ---------------
+ 5 files changed, 16 insertions(+), 41 deletions(-)
+
+commit 1a06e97d90db6d44372c6e21387697bb1f3e2529
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:11:10 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:11:10 2026 +0700
+
+    FDT Agent Autosave [14:11:10]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../kt04_fragment_2415053122217/MainActivity.kt      | 20 --------------------
+ .../main/java/vn/udn/ute/week08/kt3/MainActivity.kt  | 20 --------------------
+ 2 files changed, 40 deletions(-)
+
+commit 180e07c744690b4fb6faa49dc86af5d9ae9419fb
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:06:08 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:06:08 2026 +0700
+
+    FDT Agent Autosave [14:06:08]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../ExampleInstrumentedTest.kt                     | 24 ++++++++++++++++++++++
+ .../kt04_fragment_2415053122217/MainActivity.kt    | 20 ++++++++++++++++++
+ .../kt04_fragment_2415053122217/ExampleUnitTest.kt | 17 +++++++++++++++
+ settings.gradle.kts                                |  2 +-
+ 4 files changed, 62 insertions(+), 1 deletion(-)
+
+commit d63e19d4bc0907a4bf3c34835474c2f1ed16aa95
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 14:01:06 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 14:01:06 2026 +0700
+
+    FDT Agent Autosave [14:01:06]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/.gitignore                                     |   1 +
+ app/build.gradle.kts                               |  43 ++++
+ .../udn/ute/week08/kt3/ExampleInstrumentedTest.kt  |  24 ++
+ app/src/main/AndroidManifest.xml                   |  26 +++
+ .../java/vn/udn/ute/week08/kt3/MainActivity.kt     |  20 ++
+ app/src/main/keepRules/rules.keep                  |  12 +
+ .../main/res/drawable/ic_launcher_background.xml   | 170 ++++++++++++++
+ .../main/res/drawable/ic_launcher_foreground.xml   |  30 +++
+ app/src/main/res/layout/activity_main.xml          |  19 ++
+ app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml |   6 +
+ .../res/mipmap-anydpi-v26/ic_launcher_round.xml    |   6 +
+ app/src/main/res/mipmap-hdpi/ic_launcher.webp      | Bin 0 -> 1404 bytes
+ .../main/res/mipmap-hdpi/ic_launcher_round.webp    | Bin 0 -> 2898 bytes
+ app/src/main/res/mipmap-mdpi/ic_launcher.webp      | Bin 0 -> 982 bytes
+ .../main/res/mipmap-mdpi/ic_launcher_round.webp    | Bin 0 -> 1772 bytes
+ app/src/main/res/mipmap-xhdpi/ic_launcher.webp     | Bin 0 -> 1900 bytes
+ .../main/res/mipmap-xhdpi/ic_launcher_round.webp   | Bin 0 -> 3918 bytes
+ app/src/main/res/mipmap-xxhdpi/ic_launcher.webp    | Bin 0 -> 2884 bytes
+ .../main/res/mipmap-xxhdpi/ic_launcher_round.webp  | Bin 0 -> 5914 bytes
+ app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp   | Bin 0 -> 3844 bytes
+ .../main/res/mipmap-xxxhdpi/ic_launcher_round.webp | Bin 0 -> 7778 bytes
+ app/src/main/res/values-night/themes.xml           |   7 +
+ app/src/main/res/values/colors.xml                 |   5 +
+ app/src/main/res/values/strings.xml                |   3 +
+ app/src/main/res/values/themes.xml                 |   9 +
+ app/src/main/res/xml/backup_rules.xml              |  13 ++
+ app/src/main/res/xml/data_extraction_rules.xml     |  19 ++
+ .../java/vn/udn/ute/week08/kt3/ExampleUnitTest.kt  |  17 ++
+ build.gradle.kts                                   |   4 +
+ gradle.properties                                  |  19 ++
+ gradle/gradle-daemon-jvm.properties                |  12 +
+ gradle/libs.versions.toml                          |  24 ++
+ gradle/wrapper/gradle-wrapper.jar                  | Bin 0 -> 45457 bytes
+ gradle/wrapper/gradle-wrapper.properties           |   9 +
+ gradlew                                            | 251 +++++++++++++++++++++
+ gradlew.bat                                        |  94 ++++++++
+ local.properties                                   |  10 +
+ settings.gradle.kts                                |  27 +++
+ 38 files changed, 880 insertions(+)
+
+commit 1bd168275e190b4053c13fe8402ac9331b05b563
+Author:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 16 13:56:10 2026 +0700
+Commit:     ĐOÀN THỊ MAI HIỀN (2415053122217) <2415053122217@fdt.ute.udn.vn>
+CommitDate: Mon Nov 16 13:56:10 2026 +0700
+
+    FDT Agent: Initialized local project repository
+
+ .gitignore | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
